@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/MatasVaitkevicius/cloud-lab/internal/controller"
+	"github.com/armbar/cloud-lab/internal/controller"
 	"github.com/spf13/cobra"
 )
 
